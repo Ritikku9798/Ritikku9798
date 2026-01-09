@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Ritik Kumar
 
-<!--
-**Ritikku9798/Ritikku9798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a **Data Analyst** passionate about turning data into insights and meaningful solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ **Skills**
+
+- 📊 **Advanced Excel**
+- 📈 **Tableau**
+- 📊 **Power BI**
+- 🗄️ **SQL**
+- 🧠 **Statistics**
+- 🐍 **Python**
+
+---
+
+## 📁 **Projects**
+
+### 💼 HR Analytics
+Analyzed HR datasets to extract insights on employee performance, retention, trends, and organizational metrics.
+
+### 🏦 Bank Analytics
+Performed data analysis for banking data to identify patterns, customer insights, and visualize performance dashboards.
+
+---
+
+## 📫 **Contact Me**
+
+Let’s connect!
+
+🔗 **LinkedIn:** linkedin.com/in/ritik-kumar-642466335
+📧 **Email:** ritikkumar6739@gmail.com
+
+---
+
+## 🚀 Fun Fact
+
+Always learning, always building — one project at a time! ✨
