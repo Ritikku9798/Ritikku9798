@@ -30,8 +30,8 @@ Performed data analysis for banking data to identify patterns, customer insights
 
 Let’s connect!
 
-🔗 **LinkedIn:** linkedin.com/in/ritik-kumar-642466335
-📧 **Email:** ritikkumar6739@gmail.com
+🔗 **LinkedIn:** [https://www.linkedin.com/in/ritik-kumar-642466335](https://www.linkedin.com/in/ritik-kumar-642466335) 
+📧 **Email:** [ritikkumar6739@gmail.com](mailto:ritikkumar6739@gmail.com)
 
 ---
 
