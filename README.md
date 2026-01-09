@@ -7,12 +7,13 @@ I'm a **Data Analyst** passionate about turning data into insights and meaningfu
 
 ## 🛠️ **Skills**
 
-- 📊 **Advanced Excel**
-- 📈 **Tableau**
-- 📊 **Power BI**
-- 🗄️ **SQL**
-- 🧠 **Statistics**
-- 🐍 **Python**
+![Excel](https://img.shields.io/badge/Excel-Advanced-green)
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Viz-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![SQL](https://img.shields.io/badge/SQL-Database-orange)
+![Statistics](https://img.shields.io/badge/Statistics-Analysis-purple)
+![Python](https://img.shields.io/badge/Python-Programming-blue)
+
 
 ---
 
